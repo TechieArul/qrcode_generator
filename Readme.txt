@@ -14,7 +14,7 @@ Types of Qr code you can generate :
 6. make a phone call QR code
 
 
-Dependencide :
+Dependencies :
 --------------
 
 Python tkinter library
